@@ -183,7 +183,7 @@ POST /api/user/login
 
 ### Screenshot
 
-![Register API](./screenshot/user-log.png)
+![Login API](./portfolio-management-backend/screenshot/user-log.png)
 
 
 ---
@@ -200,7 +200,7 @@ POST /api/project/new
 
 ### Screenshot
 
-![Register API](./screenshot/add-project.png)
+![Project API](./portfolio-management-backend/screenshot/add-project.png)
 
 
 ---
@@ -215,7 +215,7 @@ GET /api/project
 
 ### Screenshot
 
-![Register API](./screenshot/get-project.png)
+![Project API](./portfolio-management-backend/screenshot/get-project.png)
 
 ---
 
@@ -229,7 +229,7 @@ PUT /api/project/:id
 
 ### Screenshot
 
-![Register API](./screenshot/update-project.png)
+![Project API](./portfolio-management-backend/screenshot/update-project.png)
 
 
 ---
@@ -258,7 +258,7 @@ GET /api/project/search?technology=React
 
 ### Screenshot
 
-![Register API](./screenshot/search-project.png)
+![Search API](./portfolio-management-backend/screenshot/search-project.png)
 
 
 ---
@@ -275,7 +275,7 @@ POST /api/portfolio/new
 
 ### Screenshot
 
-![Portfolio API](./screenshot/add-portfolio.png)
+![Portfolio API](./portfolio-management-backend/screenshot/add-portfolio.png)
 
 
 ---
@@ -290,7 +290,7 @@ GET /api/portfolio
 
 ### Screenshot
 
-![Portfolio API](./screenshot/get-portfolio.png)
+![Portfolio API](./portfolio-management-backend/screenshot/get-portfolio.png)
 
 
 ---
@@ -305,7 +305,7 @@ PUT /api/portfolio
 
 ### Screenshot
 
-![Portfolio API](./screenshot/update-portfolio.png)
+![Portfolio API](./portfolio-management-backend/screenshot/update-portfolio.png)
 
 
 ---
@@ -322,7 +322,7 @@ POST /api/skill/new
 
 ### Screenshot
 
-![Skill API](./screenshot/skill-add.png)
+![Skill API](./portfolio-management-backend/screenshot/skill-add.png)
 
 
 ---
@@ -337,7 +337,7 @@ GET /api/skill
 
 ### Screenshot
 
-![Skill API](./screenshot/get-skill.png)
+![Skill API](./portfolio-management-backend/screenshot/get-skill.png)
 
 
 ---
@@ -352,7 +352,7 @@ PUT /api/skill/:id
 
 ### Screenshot
 
-![Skill API](./screenshot/update-skill.png)
+![Skill API](./portfolio-management-backend/screenshot/update-skill.png)
 
 ---
 
@@ -382,7 +382,7 @@ GET /api/dashboard/stats
 
 ### Screenshot
 
-![Dashboard API](./screenshot/dashboard.png)
+![Dashboard API](./portfolio-management-backend/screenshot/dashboard.png)
 
 
 ---
