@@ -160,7 +160,7 @@ POST /api/user/register
 ```
 ### Screenshot
 
-![Register API](./screenshot/user-reg.png)
+![Register API](./portfolio-management-backend/screenshot/user-reg.png)
 
 ---
 
